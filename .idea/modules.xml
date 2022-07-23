@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atlas-IAC/Atlas-IAC.iml" filepath="$PROJECT_DIR$/Atlas-IAC/Atlas-IAC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Atlas-IAC-Test-Task.iml" filepath="$PROJECT_DIR$/.idea/Atlas-IAC-Test-Task.iml" />
+    </modules>
+  </component>
+</project>
